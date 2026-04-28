@@ -1,0 +1,6 @@
+[19:22:09 INF] ========== START TEST: SearchTest ==========
+[19:22:10 INF] Running search test
+[19:22:18 INF] TEST STATUS: Passed
+[19:22:18 INF] EXECUTION TIME: 9.26 sec
+[19:22:19 INF] ========== END TEST ==========
+

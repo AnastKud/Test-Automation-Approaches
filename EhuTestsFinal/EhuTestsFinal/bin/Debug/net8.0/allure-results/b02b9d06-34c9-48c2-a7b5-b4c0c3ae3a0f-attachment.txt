@@ -1,0 +1,7 @@
+[19:21:39 INF] ========== START TEST: AboutPageTest ==========
+[19:21:40 INF] Opening homepage
+[19:21:48 INF] Clicking About
+[19:21:49 INF] TEST STATUS: Passed
+[19:21:49 INF] EXECUTION TIME: 9.56 sec
+[19:21:49 INF] ========== END TEST ==========
+

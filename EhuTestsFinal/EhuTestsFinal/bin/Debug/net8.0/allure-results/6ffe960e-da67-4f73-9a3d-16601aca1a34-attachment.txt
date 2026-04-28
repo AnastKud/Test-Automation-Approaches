@@ -1,0 +1,6 @@
+[19:21:49 INF] ========== START TEST: ContactTest ==========
+[19:21:50 INF] Opening Contact page
+[19:21:54 INF] TEST STATUS: Passed
+[19:21:54 INF] EXECUTION TIME: 5.18 sec
+[19:21:55 INF] ========== END TEST ==========
+

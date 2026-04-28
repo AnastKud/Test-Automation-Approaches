@@ -1,0 +1,6 @@
+[19:21:55 INF] ========== START TEST: LanguageTest ==========
+[19:21:56 INF] Changing site language
+[19:22:09 INF] TEST STATUS: Passed
+[19:22:09 INF] EXECUTION TIME: 14.07 sec
+[19:22:09 INF] ========== END TEST ==========
+
